@@ -28,7 +28,6 @@
 ## تواصل مع معول
 
 - الموقع: **[https://www.meawal.com](https://www.meawal.com)**
-- البريد: hello@meawal.com
 - استشارة مجانية: [معول — الرئيسية](https://www.meawal.com/)
 
 ---
