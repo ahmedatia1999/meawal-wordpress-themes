@@ -8,15 +8,15 @@
 
 | المشروع | الموقع | المستودع |
 |---------|--------|----------|
-| ADECO | [adeco.meawal.sa](http://adeco.meawal.sa/) | [meawal-adeco-theme](https://github.com/meawal-agency/meawal-adeco-theme) |
-| ALQA SIGNALS | [alqa_signals.sa](http://alqa_signals.sa/) | [meawal-alqa-signals-theme](https://github.com/meawal-agency/meawal-alqa-signals-theme) |
-| Aurora | [aurora.sa](http://aurora.sa/) | [meawal-aurora-theme](https://github.com/meawal-agency/meawal-aurora-theme) |
-| Axiom7 | [axiom7.com](https://axiom7.com) | [meawal-axiom7-theme](https://github.com/meawal-agency/meawal-axiom7-theme) |
-| Bina | [bina.meawal.sa](https://bina.meawal.sa/) | [meawal-bina-theme](https://github.com/meawal-agency/meawal-bina-theme) |
-| Golden Solutions | [golden_solutions.sa](http://golden_solutions.sa/) | [meawal-golden-solutions-theme](https://github.com/meawal-agency/meawal-golden-solutions-theme) |
-| جمعية جمان | [juman.edu.sa](https://juman.edu.sa/) | [meawal-juman-theme](https://github.com/meawal-agency/meawal-juman-theme) |
-| RDF | [rdf.sa](http://rdf.sa/) | [meawal-rdf-theme](https://github.com/meawal-agency/meawal-rdf-theme) |
-| Solutions Consultancy | [solutions-consultancy.com](https://solutions-consultancy.com/) | [meawal-solutions-theme](https://github.com/meawal-agency/meawal-solutions-theme) |
+| ADECO | [adeco.meawal.sa](http://adeco.meawal.sa/) | [meawal-adeco-theme](https://github.com/ahmedatia1999/meawal-adeco-theme) |
+| ALQA SIGNALS | [alqa_signals.sa](http://alqa_signals.sa/) | [meawal-alqa-signals-theme](https://github.com/ahmedatia1999/meawal-alqa-signals-theme) |
+| Aurora | [aurora.sa](http://aurora.sa/) | [meawal-aurora-theme](https://github.com/ahmedatia1999/meawal-aurora-theme) |
+| Axiom7 | [axiom7.com](https://axiom7.com) | [meawal-axiom7-theme](https://github.com/ahmedatia1999/meawal-axiom7-theme) |
+| Bina | [bina.meawal.sa](https://bina.meawal.sa/) | [meawal-bina-theme](https://github.com/ahmedatia1999/meawal-bina-theme) |
+| Golden Solutions | [golden_solutions.sa](http://golden_solutions.sa/) | [meawal-golden-solutions-theme](https://github.com/ahmedatia1999/meawal-golden-solutions-theme) |
+| جمعية جمان | [juman.edu.sa](https://juman.edu.sa/) | [meawal-juman-theme](https://github.com/ahmedatia1999/meawal-juman-theme) |
+| RDF | [rdf.sa](http://rdf.sa/) | [meawal-rdf-theme](https://github.com/ahmedatia1999/meawal-rdf-theme) |
+| Solutions Consultancy | [solutions-consultancy.com](https://solutions-consultancy.com/) | [meawal-solutions-theme](https://github.com/ahmedatia1999/meawal-solutions-theme) |
 
 ## التقنيات
 
