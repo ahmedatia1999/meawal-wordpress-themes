@@ -6,17 +6,17 @@
 
 ## المشاريع
 
-| المشروع | الموقع | مستودع GitHub (بعد النشر) |
-|---------|--------|---------------------------|
-| ADECO | [adeco.meawal.sa](http://adeco.meawal.sa/) | `https://github.com/YOUR_USER/meawal-adeco-theme` |
-| ALQA SIGNALS | [alqa_signals.sa](http://alqa_signals.sa/) | `https://github.com/YOUR_USER/meawal-alqa-signals-theme` |
-| Aurora | [aurora.sa](http://aurora.sa/) | `https://github.com/YOUR_USER/meawal-aurora-theme` |
-| Axiom7 | [axiom7.com](https://axiom7.com) | `https://github.com/YOUR_USER/meawal-axiom7-theme` |
-| جمعية جمان | [juman.edu.sa](https://juman.edu.sa/) | `https://github.com/YOUR_USER/meawal-juman-theme` |
-| RDF | [rdf.sa](http://rdf.sa/) | `https://github.com/YOUR_USER/meawal-rdf-theme` |
-| Solutions | [solutions-consultancy.com](https://solutions-consultancy.com/) | `https://github.com/YOUR_USER/meawal-solutions-theme` |
-
-<!-- استبدل YOUR_USER وروابط المستودعات بعد إنشاء الريبوهات على GitHub -->
+| المشروع | الموقع | المستودع |
+|---------|--------|----------|
+| ADECO | [adeco.meawal.sa](http://adeco.meawal.sa/) | [meawal-adeco-theme](https://github.com/ahmedatia1999/meawal-adeco-theme) |
+| ALQA SIGNALS | [alqa_signals.sa](http://alqa_signals.sa/) | [meawal-alqa-signals-theme](https://github.com/ahmedatia1999/meawal-alqa-signals-theme) |
+| Aurora | [aurora.sa](http://aurora.sa/) | [meawal-aurora-theme](https://github.com/ahmedatia1999/meawal-aurora-theme) |
+| Axiom7 | [axiom7.com](https://axiom7.com) | [meawal-axiom7-theme](https://github.com/ahmedatia1999/meawal-axiom7-theme) |
+| Bina | [bina.meawal.sa](https://bina.meawal.sa/) | [meawal-bina-theme](https://github.com/ahmedatia1999/meawal-bina-theme) |
+| Golden Solutions | [golden_solutions.sa](http://golden_solutions.sa/) | [meawal-golden-solutions-theme](https://github.com/ahmedatia1999/meawal-golden-solutions-theme) |
+| جمعية جمان | [juman.edu.sa](https://juman.edu.sa/) | [meawal-juman-theme](https://github.com/ahmedatia1999/meawal-juman-theme) |
+| RDF | [rdf.sa](http://rdf.sa/) | [meawal-rdf-theme](https://github.com/ahmedatia1999/meawal-rdf-theme) |
+| Solutions Consultancy | [solutions-consultancy.com](https://solutions-consultancy.com/) | [meawal-solutions-theme](https://github.com/ahmedatia1999/meawal-solutions-theme) |
 
 ## التقنيات
 
